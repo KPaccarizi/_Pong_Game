@@ -8,7 +8,7 @@ Simple Pong Game with Python 3 and Tkinter! This classic digital 2D PONG GAME al
 - **Paddles:** Two paddles are created, and the user controls the left-hand side one.
 - **Ball Movement:** The ball moves around the screen according to the rules of the game.
 - **Computer Player:** The computer player aims to return the ball. To add excitement, the computer player is intentionally imperfect. Random elements are introduced 55% of the time, making it more challenging.
-- **Optimal Positioning:** The computer player's paddle receives a random adjustment (-20 or 20) 55% of the time, adding variability to its play.
+- **Optimal Positioning:**  With a random number added 55% of the time to make computer player imperfect
 - **Score Display:** The score is displayed and updated at the top of the screen.
 - **Play Again Button:** After a game concludes, a "Play Again" button appears for the user to restart the game.
 
