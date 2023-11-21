@@ -145,7 +145,7 @@ def gameloop():
     game_canvas.create_rectangle(0, 0, window_dimensions[0], window_dimensions[1], fill="#001F3F", outline="#001F3F")
 
     game_canvas.create_rectangle(35, player_y_position, 35 + paddle_size[0], player_y_position + paddle_size[1],
-                                 fill="#00FF00", outline="#00FF00")
+                                 fill="#0008ff", outline="#0008ff")
 
     game_canvas.create_rectangle(window_dimensions[0] - 35, ai_y_position,
                                  (window_dimensions[0] - 35) - paddle_size[0], ai_y_position + paddle_size[1],
