@@ -1,8 +1,9 @@
 # Pong Game
 
-Simple Pong Game with Python 3 and Tkinter! This classic digital 2D PONG GAME allows one player to compete against the computer player.
+Simple Pong Game with Python 3 and Tkinter! 🏓
+This classic digital 2D PONG GAME allows one player to compete against the computer player.
 
-## Features:
+## Features:🎮
 
 - **Table Setup:** The program creates and draws the Pong table.
 - **Paddles:** Two paddles are created, and the user controls the left-hand side one.
@@ -12,7 +13,7 @@ Simple Pong Game with Python 3 and Tkinter! This classic digital 2D PONG GAME al
 - **Score Display:** The score is displayed and updated at the top of the screen.
 - **Play Again Button:** After a game concludes, a "Play Again" button appears for the user to restart the game.
 
-## Gameplay:
+## Gameplay:🕹️
 
 - Control the left paddle using the 'W' and 'S' keys.
 - Challenge the computer player in a classic game of Pong.
