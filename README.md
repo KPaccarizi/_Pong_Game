@@ -21,3 +21,5 @@ This classic digital 2D PONG GAME allows one player to compete against the compu
 - Celebrate victory when a player reaches a score of 5.
 - Click the "Play Again" button to start a new game.
 
+
+![Pong Game](pong.png)
